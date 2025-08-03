@@ -1,0 +1,974 @@
+Server running on http://localhost:3001
+[WS] Pi WebSocket server listening on ws://localhost:8081/
+[WS] App WebSocket server listening on ws://localhost:8082/
+[WebSocket] Homebase connected: 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[CRON] 2025-07-19T03:40:00.016Z — dow=6, bucket=44
+[PING] 🔁 Tick — 2025-07-19T03:40:00.019Z
+[CRON] ▶ ON  slots to start/continue: 0
+[PING] 🏠 Found 1
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING-PI] ✅ Homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 is ONLINE
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] 🛰️ Sent ping to esp32-c41d.local
+[PING] ✅ All pings dispatched
+
+[PING-ESP32] Received pong for device C41D-C41D87EA-87EABF8C — ONLINE: true
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+
+=== HomeBase Name Request ===
+Authenticated User ID: cmd9p4fp000001lntwxsahm5c
+Database Query Result: {
+  name: 'HomeBase 8b73',
+  id: '1b3ae4ad-9715-4e90-a3e6-beb745178b73',
+  online: true
+}
+Returning HomeBase name: HomeBase 8b73
+
+=== HomeBase Name Request ===
+Authenticated User ID: cmd9p4fp000001lntwxsahm5c
+Database Query Result: {
+  name: 'HomeBase 8b73',
+  id: '1b3ae4ad-9715-4e90-a3e6-beb745178b73',
+  online: true
+}
+Returning HomeBase name: HomeBase 8b73
+hit devices/list
+[WebSocket] App connected: 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[PING] 🔁 Tick — 2025-07-19T03:41:00.011Z
+[PING] 🏠 Found 1
+[PING-PI] ✅ Homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 is ONLINE
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] 🛰️ Sent ping to esp32-c41d.local
+[PING] ✅ All pings dispatched
+
+[PING-ESP32] Received pong for device C41D-C41D87EA-87EABF8C — ONLINE: true
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[GET /api/schedule] [Object: null prototype] { deviceId: 'C41D-C41D87EA-87EABF8C' }
+[GET /api/schedule] returning 0 schedules
+[PING] 🔁 Tick — 2025-07-19T03:42:00.012Z
+[PING] 🏠 Found 1
+[PING-PI] ✅ Homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 is ONLINE
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] 🛰️ Sent ping to esp32-c41d.local
+[PING] ✅ All pings dispatched
+
+[PING-ESP32] Received pong for device C41D-C41D87EA-87EABF8C — ONLINE: true
+[POST /api/schedule] body: {
+  rainGuard: false,
+  enabled: true,
+  deviceId: 'C41D-C41D87EA-87EABF8C',
+  name: 'Test Gaben',
+  slots: [
+    { durationMin: 10, start: '23:45', zones: [Array], days: [Array] }
+  ]
+}
+[POST /api/schedule] slotData: [ { days: [ 5 ], startBucket: 285, bucketCount: 2, zoneMask: 7 } ]
+[POST /api/schedule] created cmd9pc0r900001l60mvped1mx
+[GET /api/schedule] [Object: null prototype] { deviceId: 'C41D-C41D87EA-87EABF8C' }
+[GET /api/schedule] returning 1 schedules
+[WS-APP] 🔌 closed homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (code 1006, reason: )
+[PING] 🔁 Tick — 2025-07-19T03:43:00.016Z
+[PING] 🏠 Found 1
+[PING-PI] ✅ Homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 is ONLINE
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] 🛰️ Sent ping to esp32-c41d.local
+[PING] ✅ All pings dispatched
+
+[PING-ESP32] Received pong for device C41D-C41D87EA-87EABF8C — ONLINE: true
+[PING] 🔁 Tick — 2025-07-19T03:44:00.009Z
+[PING] 🏠 Found 1
+[PING-PI] ✅ Homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 is ONLINE
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] 🛰️ Sent ping to esp32-c41d.local
+[PING] ✅ All pings dispatched
+
+[PING-ESP32] Received pong for device C41D-C41D87EA-87EABF8C — ONLINE: true
+[CRON] 2025-07-19T03:45:00.015Z — dow=6, bucket=45
+[PING] 🔁 Tick — 2025-07-19T03:45:00.016Z
+[CRON] ▶ ON  slots to start/continue: 0
+[PING] 🏠 Found 1
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING-PI] ✅ Homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 is ONLINE
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] 🛰️ Sent ping to esp32-c41d.local
+[PING] ✅ All pings dispatched
+
+[PING-ESP32] Received pong for device C41D-C41D87EA-87EABF8C — ONLINE: true
+[GET /api/schedule] [Object: null prototype] { deviceId: 'C41D-C41D87EA-87EABF8C' }
+[GET /api/schedule] returning 1 schedules
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[GET /api/schedule] [Object: null prototype] { deviceId: 'C41D-C41D87EA-87EABF8C' }
+[GET /api/schedule] returning 1 schedules
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[GET /api/schedule] [Object: null prototype] { deviceId: 'C41D-C41D87EA-87EABF8C' }
+[GET /api/schedule] returning 1 schedules
+[PING] 🔁 Tick — 2025-07-19T03:46:00.018Z
+[PING] 🏠 Found 1
+[PING-PI] ✅ Homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 is ONLINE
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] 🛰️ Sent ping to esp32-c41d.local
+[PING] ✅ All pings dispatched
+
+[PING-ESP32] Received pong for device C41D-C41D87EA-87EABF8C — ONLINE: true
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 4 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 4 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 4 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 4 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 2 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 2 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[API] Request to turn OFF zone 3 on device C41D-C41D87EA-87EABF8C
+[API] Successfully toggled zone 3 OFF and updated DB for C41D-C41D87EA-87EABF8C
+[PING] 🔁 Tick — 2025-07-19T03:47:00.033Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=dc060372-56f1-421a-993d-544f3a045787)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T03:48:00.031Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=5a7f5bdf-634a-42d7-8f9a-8fa145961a0e)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T03:49:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=35d341be-adff-4f7e-abf9-1185a15f64d7)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T03:50:00.034Z — dow=6, bucket=46
+[PING] 🔁 Tick — 2025-07-19T03:50:00.035Z
+[PING] 🏠 Found 1
+[CRON] ▶ ON  slots to start/continue: 0
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=16457114-4955-4eae-8979-19fcea2e3f3d)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T03:51:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=8c455a80-07af-454f-b7c0-264fb7b5e45d)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T03:52:00.029Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=dec7a214-fb5d-4eb6-809c-bd9ee0dc2934)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T03:53:00.009Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=01c239d4-8b00-4416-b3d8-37dfdc6b6a1b)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T03:54:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=d5203a26-9536-4fab-8878-c8be13f6aab8)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T03:55:00.015Z — dow=6, bucket=47
+[PING] 🔁 Tick — 2025-07-19T03:55:00.016Z
+[CRON] ▶ ON  slots to start/continue: 0
+[PING] 🏠 Found 1
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=e99c5363-6982-4e6a-96c6-c6ecbdef8894)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T03:56:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=5540eefc-3101-4eb1-8465-efeb885d1901)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T03:57:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=94b2c170-e98d-4a8c-b056-fde70f4f9db6)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T03:58:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=261b9d1a-5718-4092-8369-c25bce2e16ca)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T03:59:00.009Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=66f3e0f4-780c-42c4-b48c-792d8cd81896)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:00:00.034Z — dow=6, bucket=48
+[PING] 🔁 Tick — 2025-07-19T04:00:00.036Z
+[PING] 🏠 Found 1
+[CRON] ▶ ON  slots to start/continue: 0
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=36ae415d-9a4b-4cf4-b28b-9d52ee09bed4)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:01:00.019Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=704643f8-7426-49d1-be2c-0efa3a8eaae6)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:02:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=f417462b-d6a4-4184-a818-fddcd9efd312)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:03:00.010Z
+[PING] 🏠 Found 1
+[WS-PI] 🔌 closed homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (code 1006, reason: )
+[PING-PI] ❌ No pong from homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 (msgId=ea96876e-5bfb-40fa-a804-2ec10bb1e20f)
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:04:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:05:00.033Z
+[CRON] 2025-07-19T04:05:00.034Z — dow=6, bucket=49
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[CRON] ▶ ON  slots to start/continue: 0
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:06:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:07:00.010Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:08:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:09:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:10:00.013Z — dow=6, bucket=50
+[PING] 🔁 Tick — 2025-07-19T04:10:00.017Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] ▶ ON  slots to start/continue: 0
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING] 🔁 Tick — 2025-07-19T04:11:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:12:00.009Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:13:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:14:00.032Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:15:00.014Z — dow=6, bucket=51
+[PING] 🔁 Tick — 2025-07-19T04:15:00.016Z
+[CRON] ▶ ON  slots to start/continue: 0
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:16:00.010Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:17:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:18:00.029Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:19:00.029Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:20:00.034Z — dow=6, bucket=52
+[PING] 🔁 Tick — 2025-07-19T04:20:00.036Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] ▶ ON  slots to start/continue: 0
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING] 🔁 Tick — 2025-07-19T04:21:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:22:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:23:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:24:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:25:00.034Z — dow=6, bucket=53
+[PING] 🔁 Tick — 2025-07-19T04:25:00.035Z
+[CRON] ▶ ON  slots to start/continue: 0
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:26:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:27:00.029Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:28:00.008Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:29:00.029Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:30:00.035Z — dow=6, bucket=54
+[PING] 🔁 Tick — 2025-07-19T04:30:00.036Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[CRON] ▶ ON  slots to start/continue: 0
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:31:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:32:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:33:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:34:00.008Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:35:00.034Z — dow=6, bucket=55
+[PING] 🔁 Tick — 2025-07-19T04:35:00.035Z
+[CRON] ▶ ON  slots to start/continue: 0
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:36:00.029Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:37:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:38:00.029Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:39:00.017Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:40:00.023Z — dow=6, bucket=56
+[PING] 🔁 Tick — 2025-07-19T04:40:00.027Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] ▶ ON  slots to start/continue: 0
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING] 🔁 Tick — 2025-07-19T04:41:00.031Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:42:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:43:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:44:00.031Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:45:00.034Z — dow=6, bucket=57
+[PING] 🔁 Tick — 2025-07-19T04:45:00.036Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] ▶ ON  slots to start/continue: 0
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING] 🔁 Tick — 2025-07-19T04:46:00.029Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:47:00.031Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:48:00.008Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:49:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:50:00.034Z — dow=6, bucket=58
+[PING] 🔁 Tick — 2025-07-19T04:50:00.035Z
+[CRON] ▶ ON  slots to start/continue: 0
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:51:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:52:00.019Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:53:00.029Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[PING] 🔁 Tick — 2025-07-19T04:54:00.030Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] 2025-07-19T04:55:00.026Z — dow=6, bucket=59
+[PING] 🔁 Tick — 2025-07-19T04:55:00.027Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+[CRON] ▶ ON  slots to start/continue: 0
+[CRON] ▶ OFF slots to stop        : 0
+[CRON] ✓ pass complete
+
+[PING] 🔁 Tick — 2025-07-19T04:56:00.018Z
+[PING] 🏠 Found 1
+[PING-PI] ❌ Could not reach homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
+[PING-ESP] Online HB IDs: []
+[PING-ESP] 🚫 Skipping ESP pings (DB offline) hb=1b3ae4ad-9715-4e90-a3e6-beb745178b73
+[PING] ✅ All pings dispatched
+
+Environment variables loaded from .env
+Prisma schema loaded from prisma/schema.prisma
+Prisma Studio is up on http://localhost:5555
+Environment variables loaded from .env
+Prisma schema loaded from prisma/schema.prisma
+Prisma Studio is up on http://localhost:5555
+┌─────────────────────────────────────────────────────────┐
+│  Update available 6.8.2 -> 6.12.0                       │
+│  Run the following to update                            │
+│    npm i --save-dev prisma@latest                       │
+│    npm i @prisma/client@latest                          │
+└─────────────────────────────────────────────────────────┘
+Environment variables loaded from .env
+Prisma schema loaded from prisma/schema.prisma
+Prisma Studio is up on http://localhost:5555
+Prisma schema loaded from prisma/schema.prisma

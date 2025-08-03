@@ -1,0 +1,13 @@
+[Unit]
+Description=WebSocket Client for HomeBase
+After=network.target
+
+[Service]
+ExecStart=/home/admin/onBoot.sh
+WorkingDirectory=/home/admin
+StandardOutput=inherit
+StandardError=inherit
+User=admin
+
+[Install]
+WantedBy=multi-user.target

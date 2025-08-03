@@ -1,0 +1,13 @@
+<node>
+  <interface name="org.bluez.GattCharacteristic1">
+    <method name="WriteValue">
+      <arg type="ay" name="value" direction="in"/>
+      <arg type="a{sv}" name="options" direction="in"/>
+    </method>
+    <method name="StartNotify"/>
+    <property name="UUID" type="s" access="read"/>
+    <property name="Service" type="o" access="read"/>
+    <property name="Flags" type="as" access="read"/>
+    <property name="Value" type="ay" access="read"/>
+  </interface>
+</node>
