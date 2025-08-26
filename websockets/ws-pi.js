@@ -44,6 +44,12 @@ export function notifyPiOfSprinklerCmd(homebaseId, payload) {
   });
 }
 
+export const unclaimPi = (homebaseId) => {
+  console.debug('[ws] unclaimPi →', homebaseId);
+  const ok = sendToPi(homebaseId, { type: 'unclaim' });
+  if (!ok) console.warn('[ws] unclaimPi: socket missing/offline for', homebaseId);
+  return ok;
+};
 export function createPiWebSocketServer(port = 8081) {
   const wss = new WebSocketServer({ port });
 

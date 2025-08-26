@@ -53,7 +53,7 @@ model Device {
   name        String
   type        String
   lanName     String  //   <<< NEW
-  homeBase    HomeBase @relation(fields:[homeBaseId], references:[id])
+  homeBase    HomeBase @relation(fields:[homeBaseId], references:[id], onDelete: Cascade)
   homeBaseId  String
   sprinklerState SprinklerState?
   online      Boolean   @default(false)   // green / red dot in UI
@@ -79,7 +79,7 @@ model Schedule {                                // one “program” the user to
   enabled     Boolean  @default(true)           // on/off switch
   rainGuard   Boolean  @default(false)          // skip when raining
   deviceId    String
-  device      Device   @relation(fields:[deviceId], references:[id])
+  device      Device   @relation(fields:[deviceId], references:[id], onDelete: Cascade)
   slots       ScheduleSlot[]
   createdBy   String
   createdAt   DateTime @default(now())

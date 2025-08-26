@@ -3,13 +3,48 @@ import { PrismaClient } from '@prisma/client';
 import { authenticateToken } from '../authMiddleware.js';
 import { piSockets } from '../websockets/ws-pi.js'; // Or wherever it's exported
 import { generateHomeBaseToken } from './auth.js';
-
+import { unclaimPi } from '../websockets/ws-pi.js';
 
 const router = express.Router();
 const prisma = new PrismaClient();
 
 // Claim a HomeBase (user must be authenticated)
 // Claim or register a HomeBase
+
+router.post('/unclaim', authenticateToken, async (req, res) =>  {
+  const { homebaseId } = req.body;
+
+  console.log('homebase id:', homebaseId)
+
+  if (!homebaseId) {
+    return res.status(400).json({error: 'Missing homebaseId'});
+  }
+
+  try {
+    let userHomebase = await prisma.homeBase.findUnique({where: { userId: req.userId}})
+    
+    const userHomebaseId = userHomebase?.id ?? null
+    console.log('unclaim: userHomebase', userHomebaseId)
+    console.log('unclaim: request homebase', homebaseId)
+
+    if (userHomebaseId == homebaseId){
+      await prisma.homeBase.delete({
+        where: {id: userHomebaseId}
+      });
+      unclaimPi(homebaseId);  
+      return res.sendStatus(204);
+    }
+
+    return res.status(403).json( {error: "Not your homebase"});
+
+
+  } catch (err) {
+    console.error(err);
+    res.status(500).json( {error: 'Server error'})
+  }
+
+});
+
 router.post('/claim', authenticateToken, async (req, res) => {
   const { homebaseId, name, online } = req.body;
 
@@ -53,6 +88,7 @@ router.post('/claim', authenticateToken, async (req, res) => {
     res.status(500).json({ error: 'Failed to claim or register HomeBase' });
   }
 });
+
 router.get('/getname', authenticateToken, async (req, res) => {
     console.log('\n=== HomeBase Name Request ===');
     console.log('Authenticated User ID:', req.userId);

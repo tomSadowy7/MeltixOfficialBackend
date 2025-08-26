@@ -3,17 +3,13 @@
 exec >> /home/admin/onboot.log 2>&1
 echo "[boot] Launching at $(date)"
 
-# Bluetooth setup
-bluetoothctl <<EOF
-pairable off
-discoverable off
-exit
-EOF
+bluetoothctl show
 
+# Main logic
 if [ -f /etc/homebase-token ]; then
     echo "[boot] Found token, launching WebSocket client..."
-    python3 /home/admin/ws_client.py
+    /usr/bin/python /home/admin/ws_client.py
 else
     echo "[boot] No token, starting BLE provisioning..."
-    python3 /home/admin/pyserver.py
+    /usr/bin/python /home/admin/start.py
 fi
