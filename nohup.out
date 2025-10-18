@@ -28,18 +28,18 @@ Server running on http://localhost:3001
 [API] Successfully toggled zone 1 OFF and updated DB for C41D-C41D87EA-87EABF8C
 [API] Request to turn ON zone 1 on device C41D-C41D87EA-87EABF8C
 [CRON] 2025-07-19T03:40:00.016Z — dow=6, bucket=44
-[PING] 🔁 Tick — 2025-07-19T03:40:00.019Z
-[CRON] ▶ ON  slots to start/continue: 0
-[PING] 🏠 Found 1
-[CRON] ▶ OFF slots to stop        : 0
-[CRON] ✓ pass complete
+[PING] Tick — 2025-07-19T03:40:00.019Z
+[CRON] ON  slots to start/continue: 0
+[PING] Found 1
+[CRON] OFF slots to stop        : 0
+[CRON] pass complete
 
-[PING-PI] ✅ Homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 is ONLINE
+[PING-PI] Homebase 1b3ae4ad-9715-4e90-a3e6-beb745178b73 is ONLINE
 [API] Successfully toggled zone 1 ON and updated DB for C41D-C41D87EA-87EABF8C
 [PING-ESP] Considering HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
 [PING-ESP] Online HB IDs: [ '1b3ae4ad-9715-4e90-a3e6-beb745178b73' ]
-[PING-ESP] 🛰️ Sent ping to esp32-c41d.local
-[PING] ✅ All pings dispatched
+[PING-ESP] Sent ping to esp32-c41d.local
+[PING] All pings dispatched
 
 [PING-ESP32] Received pong for device C41D-C41D87EA-87EABF8C — ONLINE: true
 [API] Request to turn OFF zone 1 on device C41D-C41D87EA-87EABF8C
